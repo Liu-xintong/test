@@ -1,4 +1,6 @@
 import os
-def change:
+def change(i):
 	print(i)
 	return
+def add(a,b):
+	return(a+b)
